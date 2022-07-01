@@ -1,0 +1,15 @@
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\bin\Debug\net6.0\if_else.exe
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\bin\Debug\net6.0\if_else.deps.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\bin\Debug\net6.0\if_else.runtimeconfig.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\bin\Debug\net6.0\if_else.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\bin\Debug\net6.0\if_else.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\obj\Debug\net6.0\if_else.csproj.AssemblyReference.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\obj\Debug\net6.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\obj\Debug\net6.0\if_else.AssemblyInfoInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\obj\Debug\net6.0\if_else.AssemblyInfo.cs
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\obj\Debug\net6.0\if_else.csproj.CoreCompileInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\obj\Debug\net6.0\if_else.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\obj\Debug\net6.0\refint\if_else.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\obj\Debug\net6.0\if_else.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\obj\Debug\net6.0\if_else.genruntimeconfig.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\if_else\obj\Debug\net6.0\ref\if_else.dll
